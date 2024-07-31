@@ -23,6 +23,6 @@ Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado Bou
 - Graduate Award for Public Policy Research, 2023
 
 ## Research Experience
-- Research Assistant, University of Colorado Boulder, Reporting to Professor **Carol Shiue**, Summer 2022 & 2024
+- Research Assistant, University of Colorado Boulder, Reporting to Professor Carol Shiue, Summer 2022 & 2024
 
 ## News and Updates
