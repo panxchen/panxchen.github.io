@@ -7,7 +7,6 @@ author_profile: true
 ---
 
 
-
 Working Papers
 ======
 * Environmental and Development
