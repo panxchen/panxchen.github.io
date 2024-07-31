@@ -6,6 +6,10 @@ author_profile: true
 
 ---
 
+
+{% include base_path %}
+
+
 Working Papers
 ======
 * Environmental and Development
