@@ -13,7 +13,7 @@ title                    : "Homepage - Pan Chen"
 title_separator          : "-"
 #name                     : &name "Pan Chen"
 #description              : &description "personal description"
-url                      : https://panchen15.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://panxchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
