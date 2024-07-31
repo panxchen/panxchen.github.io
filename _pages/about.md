@@ -24,7 +24,7 @@ Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado Bou
 
 ## Research Experience
 * Research Assistant
-  * @Summer 2022 & 2024 @CU Boulder
+  * Summer 2022 & 2024 @CU Boulder
   * Reporting to Professor Carol Shiue
 
 ## News and Updates
