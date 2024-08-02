@@ -6,3 +6,4 @@ author_profile: true
 ---
 
 You can download my [**CV here**](../files/Short_CV.pdf) (*updated May 2024*).
+<a href="../files/Short_CV.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>
