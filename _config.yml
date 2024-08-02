@@ -9,9 +9,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Homepage - Pan Chen"
+title                    : "Pan Chen - Homepage"
 title_separator          : "-"
-#name                     : &name "Pan Chen"
+name                     : &name "Pan Chen"
 #description              : &description "personal description"
 url                      : https://panxchen.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 #baseurl                  : "" # the subpath of your site, e.g. "/blog"
