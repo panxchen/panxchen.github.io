@@ -11,7 +11,7 @@ redirect_from:
 
 Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado Boulder. My main research interests lie in environmental and development economics, with secondary interests in economic history and political economy. 
 
-**Email:** [*pan.chen@colorado.edu*](mailto:pach8330@colorado.edu).
+**Email:** [*pan.chen@colorado.edu*](mailto:pach8330@colorado.edu)
 
 ## Education
 * Ph.D. in Economics, University of Colorado Boulder, July 2021 - May 2026 (expected)
