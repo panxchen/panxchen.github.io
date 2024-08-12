@@ -14,8 +14,8 @@ Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado Bou
 **Email:** [*pan.chen@colorado.edu*](mailto:pach8330@colorado.edu)
 
 ## Education
-* Ph.D. in Economics, University of Colorado Boulder, July 2021 - May 2026 (expected)
-* M.A. in Economics, University of Colorado Boulder, July 2021 - May 2023
+* Ph.D. in Economics, University of Colorado, Boulder, July 2021 - May 2026 (expected)
+* M.A. in Economics, University of Colorado, Boulder, July 2021 - May 2023
 * M.A. in Economics, Huazhong University of Sci. & Tech., Sep 2015 - June 2018
 * B.A. in Economics, Huazhong Agricultural University, Sep 2011 - June 2015 
 
