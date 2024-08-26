@@ -13,6 +13,6 @@ author_profile: true
 
 ### Teaching Assistant
 * Principles of Microeconomics
-  * Fall 2021–2023 @CU Boulder
+  * Fall 2021 – Fall 2023 @CU Boulder
   * Average Teaching Evaluation Score: 5.15/6
 
