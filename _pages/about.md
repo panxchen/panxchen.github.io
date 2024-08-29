@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+# About
 
 Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado Boulder. My main research interests lie in environmental and development economics, with secondary interests in economic history and political economy. 
 
