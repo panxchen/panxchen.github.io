@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "简介"
+title: "中文简介"
 permalink: /Chinese/
 author_profile: true
 
