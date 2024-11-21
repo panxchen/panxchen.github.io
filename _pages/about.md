@@ -9,7 +9,7 @@ redirect_from:
 
 # About
 
-Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado, Boulder. My main research interests lie in environmental, resource, and development economics, with secondary interests in economic history and political economy. 
+Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado, Boulder. My prumary research interests lie in environment, development, and economic history, with secondary interests in political economy. Currently, my work examines how childhood policy shocks impact long-term life outcomes.
 
 **Email:** [*pan.chen@colorado.edu*](mailto:pach8330@colorado.edu)
 
