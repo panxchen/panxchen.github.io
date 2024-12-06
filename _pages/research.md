@@ -6,10 +6,10 @@ author_profile: true
 
 ---
 
+### Publication
+* "[Industrialization and Pollution: The Long-term Impact of Early-Life Exposure on Human Capital Formation](../files/IndustrialPollution_Manuscript.pdf)". **January 2025, *Journal of Public Economics*** 
 
 ### Working Papers
-
-* "[Industrialization and Pollution: The Long-term Impact of Early-Life Exposure on Human Capital Formation](../files/IndustrialPollution_Manuscript.pdf)". **Accepted, *Journal of Public Economics*** 
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China"
 
 ### Selected Works in Progress
