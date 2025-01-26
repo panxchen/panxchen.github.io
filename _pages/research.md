@@ -14,7 +14,7 @@ author_profile: true
 
 ### Selected Works in Progress
 * "Illuminating the Future: The Long-Term Impacts of Childhood Exposure to Rural Electrification"
-* "Data Extraction from Historical Text: New Approaches Based on ChatGPT and Beyond," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
+* "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
 
 
