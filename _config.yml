@@ -9,7 +9,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pan Chen: Home"
+title                    : "Pan Chen"
 title_separator          : "-"
 name                     : &name "Pan Chen"
 #description              : &description "personal description"
