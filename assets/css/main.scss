@@ -41,3 +41,6 @@
 @import "print";
 @import "minimal-mistakes"; // Load all default theme styles
 
+.author__avatar {
+  border-radius: 0 !important;
+}
