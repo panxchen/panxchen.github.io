@@ -41,7 +41,3 @@
 @import "print";
 @import "minimal-mistakes"; // Load all default theme styles
 
-// Custom override to make avatar rectangular
-.author__avatar {
-  border-radius: 0 !important;
-}
