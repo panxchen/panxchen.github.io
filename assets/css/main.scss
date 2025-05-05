@@ -1,15 +1,11 @@
 ---
 ---
 
-/*
- *    Minimal Mistakes Jekyll Theme
- *
- *  - Michael Rose
- *  - mademistakes.com
- *  - https://twitter.com/mmistakes
- *
-*/
 @import "minimal-mistakes";
+
+.author__avatar {
+  border-radius: 0 !important;
+}
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -41,6 +37,3 @@
 @import "print";
 @import "minimal-mistakes"; // Load all default theme styles
 
-.author__avatar {
-  border-radius: 0 !important;
-}
