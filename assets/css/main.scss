@@ -39,6 +39,4 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
-img.avatar {
-  border-radius: 0;
-}
+@import "minimal-mistakes"; // Load all default theme styles
