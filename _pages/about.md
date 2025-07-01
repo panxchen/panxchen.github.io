@@ -20,8 +20,9 @@ Hi! I'm Pan Chen, a PhD candidate in Economics at the University of Colorado, Bo
 * B.A. in Economics, Huazhong Agricultural University, Sep 2011 - June 2015 
 
 ## Honors
-* Third Year Paper Prize, 2024
-* Graduate Award for Public Policy Research, 2023
+* Graduate School Summer Fellowship, CU Boulder, 2025
+* Third Year Paper Prize, CU Boulder, 2024
+* Graduate Award for Public Policy Research, CU Boulder, 2023
 
 ## Research Experience
 * Research Assistant
