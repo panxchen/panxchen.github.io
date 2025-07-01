@@ -13,7 +13,7 @@ author_profile: true
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China"
 
 ### Selected Works in Progress
-* "Illuminating the Future: The Long-Term Impacts of Childhood Exposure to Rural Electrification"
+* "Illuminating the Future: The Long-Term Human Capital Effects of Rural Electrification"
 * "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
 
