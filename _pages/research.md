@@ -11,9 +11,9 @@ author_profile: true
 
 ### Working Papers
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China"
-** <details><summary>Abstract</summary>
-Coming soon...
-</details>
+  <details><summary>Abstract</summary>
+ Coming soon...
+ </details>
 
 ### Selected Works in Progress
 * "Illuminating the Future: The Long-Term Human Capital Effects of Rural Electrification"
