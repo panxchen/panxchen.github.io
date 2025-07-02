@@ -11,7 +11,7 @@ author_profile: true
 
 ### Working Papers
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China"
-<details><summary>Does not work</summary>
+** <details><summary>Does not work</summary>
 [hi](https://hello.ca)
 </details>
 
