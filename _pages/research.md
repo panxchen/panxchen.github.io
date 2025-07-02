@@ -11,7 +11,7 @@ author_profile: true
 
 ### Working Papers
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China"
-    <details><summary> $\color{blue}{\textsf{Abstract}}$	</summary>  Coming soon...  </details>
+    <details><summary> $\color{blue}{Abstract}$	</summary>  Coming soon...  </details>
 
 
 ### Selected Works in Progress
