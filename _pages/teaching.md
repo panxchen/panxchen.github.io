@@ -9,7 +9,6 @@ author_profile: true
 ### Instructor of Record
 * Intermediate Macroeconomic Theory
   * Spring 2024 @CU Boulder
-
   [comment]: # (* Average Teaching Evaluation Score: 4.94/6)
 
 ### Teaching Assistant
