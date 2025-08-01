@@ -15,7 +15,7 @@ author_profile: true
 
 
 ### Selected Works in Progress
-* "Illuminating the Future: The Long-Term Human Capital Effects of Rural Electrification" (Job market paper)
+* "Illuminating the Future: The Long-Term Human Capital Effects of Rural Electrification" (Job Market Paper)
 * "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
 
