@@ -19,4 +19,5 @@ author_profile: true
   [comment]: # (* Average Teaching Evaluation Score: 5.15/6 )
 * Principles of Macroeconomics
   * Spring 2025 @CU Boulder
-  * [comment]: # ( * Average Teaching Evaluation Score: 4.98/6 )
+ 
+  [comment]: # ( * Average Teaching Evaluation Score: 4.98/6 )
