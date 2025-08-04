@@ -15,7 +15,7 @@ author_profile: true
     <details><summary> <code style="color : gray">Abstract</code> </summary>  This paper uses an instrumental variable (IV) strategy to examine whether air pollution influences online engagement with the government, measured by message volume on an official platform in China. I find that a 10 ug/m<sup>3</sup> increase in weekly average PM<sub>2.5</sub> results in a 15.9% surge in messages. During periods of higher pollution, people are more likely to voice complaints, seek assistance, make inquiries, and offer suggestions.  Three mechanisms help explain this response: (1) pollution shifts the perceived benefits of civic engagement, (2) it intensifies discontent linked to economic disparities, and (3) it heightens awareness of daily life problems. Sentiment analysis using large language models (LLMs) and dictionary-based tools shows that air pollution tends to worsen emotional well-being, consistent with existing literature, although the effect is statistically insignificant in most cases.  Understanding these dynamics is essential as digital engagement with government becomes more widespread. Timely identification and response to public concerns can help prevent more serious outcomes.  </details>
     
 ### Selected Works in Progress
-* "Illuminating the Future: The Long-Term Human Capital Effects of Rural Electrification" (Job Market Paper)
+* "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (Job Market Paper)
    <details><summary> <code style="color : gray">Abstract (coming soon...)</code> </summary>   </details>
 * "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
