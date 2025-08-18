@@ -15,17 +15,6 @@ author_profile: true
       Air quality in developing countries is often much worse than in developed economies, yet evidence on the long-term human capital effects of air pollution in these settings is limited. This paper uses a cohort difference-in-differences approach to examine the impact of early-life exposure to air pollution during China's 1950s industrialization on human capital formation. It assumes that economic opportunities linked to industrial plants impact upwind and downwind counties similarly within a 30-mile radius. The results indicate that moving from the 25th to 75th percentile of exposure reduces children's education by approximately 0.11 years. This effect size is notably larger than the impacts of three other factors affecting educational attainment in both China and the United States.
     </details>
     
- <!-- <div>
-  <p style="margin-bottom: 0;">
-    "Industrialization and Pollution: The Long-Term Impact of Early-Life Exposure on Human Capital Formation." January 2025,
-    <em>Journal of Public Economics</em>.
-    <a href="../files/IndustrialPollution_Manuscript.pdf">Manuscript</a>
-    <details style="display: inline;">
-      <summary><code style="color: gray;">Abstract</code></summary>
-      Air quality in developing countries is often much worse than in developed economies, yet evidence on the long-term human capital effects of air pollution in these settings is limited. This paper uses a cohort difference-in-differences approach to examine the impact of early-life exposure to air pollution during China's 1950s industrialization on human capital formation. It assumes that economic opportunities linked to industrial plants impact upwind and downwind counties similarly within a 30-mile radius. The results indicate that moving from the 25th to 75th percentile of exposure reduces children's education by approximately 0.11 years. This effect size is notably larger than the impacts of three other factors affecting educational attainment in both China and the United States.
-    </details>
-  </p>
-</div> -->
 
 ## Working Papers
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China" 
@@ -35,9 +24,9 @@ author_profile: true
     </details>
     
 * "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (<strong>Job Market Paper</strong>)
-    <details style="display: inline;">
+      <details style="display: inline;">
       <summary><code style="color: gray;">Abstract (coming soon...)</code></summary>
-           </details>
+       </details>
 
 
 ## Selected Works in Progress
