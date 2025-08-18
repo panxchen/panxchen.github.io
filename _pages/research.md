@@ -41,9 +41,9 @@ author_profile: true
 
 
 ## Selected Works in Progress
-"Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
+* "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
-"The Environmental Cost of Crypto Mining"
+* "The Environmental Cost of Crypto Mining"
 
 
 
