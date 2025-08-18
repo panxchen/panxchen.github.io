@@ -40,7 +40,8 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
 
 ## Selected Works in Progress
 "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
-"How Polluting Firms Respond to Environmental Regulation," with Feitao Jiang, and Yingjun Su
+
+"The Environmental Cost of Crypto Mining"
 
 
 
