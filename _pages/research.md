@@ -32,7 +32,7 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
 ## Selected Works in Progress
 <div>
   <p style="margin-bottom: 0;">
-   "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (**Job Market Paper**)
+   "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (<strong>Job Market Paper</strong>)
     <details style="display: inline;">
       <summary><code style="color: gray;">Abstract (coming soon...)</code></summary>
            </details>
