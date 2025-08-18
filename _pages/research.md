@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-### Publication 
+## Publication 
 <div>
   <p style="margin-bottom: 0;">
     "Industrialization and Pollution: The Long-Term Impact of Early-Life Exposure on Human Capital Formation." January 2025,
@@ -19,7 +19,7 @@ author_profile: true
   </p>
 </div>
 
-### Working Papers
+## Working Papers
 <div>
   <p style="margin-bottom: 0;">
    "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China" 
@@ -29,7 +29,7 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
   </p>
 </div>
 
-### Selected Works in Progress
+## Selected Works in Progress
 <div>
   <p style="margin-bottom: 0;">
    "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (**Job Market Paper**)
