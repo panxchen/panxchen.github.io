@@ -7,7 +7,9 @@ author_profile: true
 ---
 
 ## Publication 
-
+* "Industrialization and Pollution: The Long-Term Impact of Early-Life Exposure on Human Capital Formation." January 2025,
+    <em>Journal of Public Economics</em>.
+    <a href="../files/IndustrialPollution_Manuscript.pdf">Manuscript</a>
  <!--<div>
   <p style="margin-bottom: 0;">
     "Industrialization and Pollution: The Long-Term Impact of Early-Life Exposure on Human Capital Formation." January 2025,
