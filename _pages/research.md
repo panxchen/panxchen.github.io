@@ -39,11 +39,8 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
   </p>
 </div>
 
-<div>
-  <p style="margin-bottom: 0;">
    "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
-  </p>
-</div>
+
 
 
 
