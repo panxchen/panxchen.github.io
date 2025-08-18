@@ -25,9 +25,7 @@ author_profile: true
     
 * "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (<strong>Job Market Paper</strong>)
       <details style="display: inline;">
-      <summary><code style="color: gray;">Abstract (coming soon...)</code></summary>
-      
-       </details>
+      <summary><code style="color: gray;">Abstract (coming soon...)</code></summary> </details>
 
 
 ## Selected Works in Progress
