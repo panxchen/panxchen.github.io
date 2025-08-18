@@ -29,7 +29,6 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
   </p>
 </div>
 
-## Selected Works in Progress
 <div>
   <p style="margin-bottom: 0;">
    "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (<strong>Job Market Paper</strong>)
@@ -39,7 +38,9 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
   </p>
 </div>
 
-   "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
+## Selected Works in Progress
+"Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
+"How Polluting Firms Respond to Environmental Regulation," with Feitao Jiang, and Yingjun Su
 
 
 
