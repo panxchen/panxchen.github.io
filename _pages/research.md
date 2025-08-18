@@ -18,6 +18,7 @@ author_profile: true
     </details>
   </p>
 </div>
+
 ### Working Papers
 <div>
   <p style="margin-bottom: 0;">
