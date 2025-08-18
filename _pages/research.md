@@ -30,9 +30,20 @@ This paper uses an instrumental variable (IV) strategy to examine whether air po
 </div>
    
 ### Selected Works in Progress
-* "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (**Job Market Paper**)
-   <details><summary> <code style="color : gray">Abstract (coming soon...)</code> </summary>   </details>
-* "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
+<div>
+  <p style="margin-bottom: 0;">
+   "Powering the Future: The Long-Term Human Capital Effects of Rural Electrification" (**Job Market Paper**)
+    <details style="display: inline;">
+      <summary><code style="color: gray;">Abstract (coming soon...)</code></summary>
+           </details>
+  </p>
+</div>
+
+<div>
+  <p style="margin-bottom: 0;">
+   "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
+  </p>
+</div>
 
 
 
