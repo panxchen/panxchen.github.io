@@ -20,7 +20,7 @@ author_profile: true
 ### Selected Works in Progress
 * "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
-* "Environmental Regulation and Within-Firm Adjustments in Multi-Process Manufacturing: Evidence from the Steel Industry," with Feitao Jiang and Yingjun Su
+* "Environmental Regulation and Within-Firm Adjustments in Multi-Process Manufacturing," with Feitao Jiang and Yingjun Su
 
 
 
