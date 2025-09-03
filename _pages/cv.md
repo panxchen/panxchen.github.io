@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-You can download my [**CV here**](../files/Pan_Chen_CV.pdf) (*updated Aug 2025*).
+You can download my [**CV here**](../files/Pan_Chen_CV.pdf) (*updated Sep 2025*).
 
 
 <object data="../files/Pan_Chen_CV.pdf" width="1000" height="1000" type='application/pdf'></object>
