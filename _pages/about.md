@@ -18,4 +18,4 @@ Before enrolling in the PhD program, I worked as an economic analyst at WISDRI, 
 **Email:** *pach8330 at colorado dot edu*
 
 ## News and Updates
-I will be presenting at the 2026 AEA Annual Meeting and am available for interviews during the conference.
+**I will be presenting at the 2026 AEA Annual Meeting and am available for interviews during the conference.**
