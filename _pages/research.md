@@ -15,12 +15,15 @@ author_profile: true
     
 ### Working Paper
 * "Deciding to Participate: The Impact of Air Pollution on Civic Engagement in China" (draft available upon request)
-    <details><summary> <code style="color : gray">Abstract</code> </summary> Online engagement with government is increasingly common in the digital age, yet the factors driving such civic activity remain poorly understood. This paper uses an instrumental variable (IV) strategy to examine whether air pollution influences online engagement with the government, measured by message volume on an official platform in China. I find that a 10 ug/m<sup>3</sup> increase in weekly average PM<sub>2.5</sub> results in a 15.9% surge in messages. During periods of higher pollution, people are more likely to voice complaints, seek assistance, make inquiries, and offer suggestions.  Three mechanisms help explain this response: (1) pollution shifts the perceived benefits of civic engagement, (2) it intensifies discontent linked to economic disparities, and (3) it heightens awareness of daily life problems. Sentiment analysis using large language models (LLMs) and dictionary-based tools shows that air pollution tends to worsen emotional well-being, consistent with existing literature, although the effect is statistically insignificant in most cases. Understanding these dynamics is crucial, as timely responses to public concerns can help prevent more serious outcomes.  </details>
+    <details><summary> <code style="color : gray">Abstract</code> </summary> Online engagement with government is increasingly common in the digital age, yet the factors driving such civic activity remain poorly understood. This paper uses an instrumental variable (IV) strategy to examine whether air pollution influences online engagement with the government, measured by message volume on an official platform in China. I find that a 10 ug/m<sup>3</sup> increase in weekly average PM<sub>2.5</sub> results in a 15.9% surge in messages. During periods of higher pollution, people are more likely to voice complaints, seek assistance, make inquiries, and offer suggestions.  Two mechanisms are identified to drive this response: air pollution shifts the perceived payoffs of civic engagement, and it heightens public awareness of everyday problems. Sentiment analysis using large language models and dictionary-based tools shows that air pollution tends to worsen emotional well-being, although the effect is statistically insignificant in most cases.  These findings carry practical implications: timely government responses to public concerns can help prevent grievances from escalating into more serious outcomes.  </details>
 
 ### Selected Works in Progress
+* "Environmental Regulation and Within-Firm Adjustments in Multi-Process Manufacturing," with Feitao Jiang and Yingjun Su
+
+* "Too Much of a Good Thing: When Forest Protection Backfires"
+
 * "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
-* "Environmental Regulation and Within-Firm Adjustments in Multi-Process Manufacturing," with Feitao Jiang and Yingjun Su
 
 
 
