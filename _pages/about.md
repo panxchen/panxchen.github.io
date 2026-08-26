@@ -9,10 +9,12 @@ redirect_from:
 
 # About
 
-Hi! My name is Pan Chen, and I am a fifth-year PhD candidate in Economics at the University of Colorado Boulder. My primary research interests are in environmental and natural resource economics and development economics, with secondary interests in economic history and political economy. **I'm on the economics job market for the 2025-2026 cycle.**
+Hi! I am an Assistant Professor in the Department of Resource Economics at the University of Massachusetts Amherst. My research lies at the intersection of environmental and development economics, with a focus on how environmental policy, institutions, and infrastructure shape firms and households.
 
-Before enrolling in the PhD program, I worked as an economic analyst at WISDRI, an engineering company in China specializing in the design and construction of steel plants.
+I received my Ph.D. in Economics from the University of Colorado Boulder in 2026.
 
-**Email:** *pach8330 at colorado dot edu*
+Before starting my PhD, I worked as an economic analyst at WISDRI, an engineering firm in China specializing in steel plant design and construction.
+
+**Email:** *panchen at umass dot edu*
 
 ## News and Updates
