@@ -5,8 +5,6 @@ permalink: /research/
 author_profile: true
 
 ---
-### Job Market Paper
-
 
 ### Publication
 * "Industrialization and Pollution: The Long-Term Impact of Early-Life Exposure on Human Capital Formation." January 2025, *Journal of Public Economics*. [Manuscript](../files/IndustrialPollution_Manuscript.pdf) 
