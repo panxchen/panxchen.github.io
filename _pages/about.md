@@ -13,7 +13,7 @@ Hi! I am an Assistant Professor in the Department of Resource Economics at the U
 
 I received my Ph.D. in Economics from the University of Colorado Boulder in 2026.
 
-Before starting my PhD, I worked as an economic analyst at WISDRI, an engineering firm in China specializing in steel plant design and construction.
+Before starting my PhD, I worked as an economic analyst in China’s steel industry.
 
 **Email:** *panchen at umass dot edu*
 
