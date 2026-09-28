@@ -23,8 +23,6 @@ author_profile: true
 
 ### Selected Works in Progress
 
-* "When Does Intellectual Property Protection Encourage Green Innovation? The Role of Environmental Governance," with Hongzhong Fan, Yang Hu, and Jiangchen Dong
-
 * "Text to Data: A Machine Learning Approach to Historical Chinese Documents," with Wolfgang Keller, Carol H. Shiue, and Sen Yan
 
 
