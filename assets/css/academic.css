@@ -120,6 +120,12 @@ a:hover { color: var(--accent); }
   letter-spacing: .14em;
   text-transform: uppercase;
 }
+.page__content .home-about h2,
+.page__content .section-kicker {
+  font-size: .72rem;
+  font-weight: 600;
+  letter-spacing: .14em;
+}
 .home-about p { margin: 0 0 .9rem; }
 .home-links { display: flex; flex-wrap: wrap; gap: 1.75rem; margin-top: 1.8rem; }
 .home-links a {
