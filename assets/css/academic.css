@@ -32,15 +32,19 @@ a:hover { color: var(--accent); }
   box-shadow: none;
   background: rgba(251, 250, 247, .97);
 }
-.masthead__inner-wrap { max-width: var(--max-width); padding: 1.25rem 1.5rem; }
+.masthead__inner-wrap { max-width: var(--max-width); padding: 1.1rem 1.5rem; }
 .greedy-nav { background: transparent; }
 .greedy-nav a { color: var(--ink); }
 .greedy-nav .visible-links a::before { height: 1px; background: var(--accent); }
-.masthead__menu-item { font-size: .82rem; letter-spacing: .04em; }
+.masthead__menu-item {
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: .01em;
+}
 .masthead__menu-item--lg {
   margin-right: auto;
   font-family: Georgia, "Times New Roman", serif;
-  font-size: 1.1rem;
+  font-size: 1.25rem;
   letter-spacing: 0;
   font-weight: 500;
 }
@@ -48,7 +52,7 @@ a:hover { color: var(--accent); }
 #main {
   max-width: var(--max-width);
   margin: 0 auto;
-  padding: 4.75rem 1.5rem 5.5rem;
+  padding: 2.75rem 1.5rem 5rem;
 }
 .page, .archive { width: 100%; float: none; padding: 0; margin: 0; }
 .page__inner-wrap { float: none; width: 100%; }
@@ -59,6 +63,7 @@ a:hover { color: var(--accent); }
   border-bottom: 1px solid var(--rule);
   font-size: clamp(2rem, 4vw, 3rem);
 }
+.page__title:empty { display: none; }
 .archive h3, .page__content h2, .page__content h3 { margin-top: 2.75rem; }
 .archive li { margin-bottom: .75rem; }
 .archive details {
