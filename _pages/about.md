@@ -9,13 +9,9 @@ redirect_from:
 <div class="home-intro">
   <section class="home-copy" aria-labelledby="home-title">
     <h1 id="home-title">Pan Chen</h1>
-    <p class="home-role">Assistant Professor of Resource Economics</p>
-    <p class="home-institution">University of Massachusetts Amherst</p>
-
-    <p class="home-fields">Environmental Economics <span aria-hidden="true">/</span> Development Economics <span aria-hidden="true">/</span> Applied Microeconomics</p>
-
-    <div class="home-bio">
-      <p>My research lies at the intersection of environmental and development economics, with a focus on how environmental policy, institutions, and infrastructure shape firms and households.</p>
+    <div class="home-about">
+      <h2>About</h2>
+      <p>I am an Assistant Professor in the Department of Resource Economics at the University of Massachusetts Amherst. My research is in environmental economics, development economics, and applied microeconomics, with a focus on how environmental policy, institutions, and infrastructure shape firms and households.</p>
       <p>I received my Ph.D. in Economics from the University of Colorado Boulder in 2026. Before starting my Ph.D., I worked as an economic analyst in China’s steel industry.</p>
     </div>
 
