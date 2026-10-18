@@ -53,7 +53,7 @@ redirect_from:
     <div class="research-meta">Working paper</div>
     <div>
       <h3><a href="/research/">Environmental Regulation and Within-Firm Adjustment: Evidence from Chinese Steel</a></h3>
-      <p>With Feitao Jiang and Yingjun Su</p>
+      <p>With <a href="https://fae.ucass.edu.cn/info/1121/1880.htm">Feitao Jiang</a> and <a href="https://sites.google.com/site/yingjunsueconomics/">Yingjun Su</a></p>
     </div>
   </article>
 </section>
