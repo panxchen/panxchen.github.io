@@ -7,10 +7,9 @@ redirect_from:
 ---
 
 <div class="home-intro">
-  <section class="home-copy" aria-labelledby="home-title">
-    <h1 id="home-title">Pan Chen</h1>
+  <section class="home-copy" aria-labelledby="about-title">
     <div class="home-about">
-      <h2>About</h2>
+      <h2 id="about-title">About</h2>
       <p>I am an Assistant Professor in the Department of Resource Economics at the University of Massachusetts Amherst. My research is in environmental economics, development economics, and applied microeconomics, with a focus on how environmental policy, institutions, and infrastructure shape firms and households.</p>
       <p>I received my Ph.D. in Economics from the University of Colorado Boulder in 2026. Before starting my Ph.D., I worked as an economic analyst in China’s steel industry.</p>
     </div>
