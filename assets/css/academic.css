@@ -75,6 +75,24 @@ a:hover { color: var(--accent); }
 .archive summary { cursor: pointer; }
 .archive code { background: transparent; font-family: inherit; }
 .page__content object { display: block; max-width: 100%; width: 100%; min-height: 72vh; border: 1px solid var(--rule); }
+.site-directory ul {
+  max-width: 34rem;
+  margin: 2rem 0;
+  padding: 0;
+  border-top: 1px solid var(--rule);
+  list-style: none;
+}
+.site-directory li { margin: 0; border-bottom: 1px solid var(--rule); }
+.site-directory a {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem 0;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.2rem;
+  text-decoration: none;
+}
+.site-directory a::after { content: "→"; color: var(--accent); }
+.site-directory__xml { color: var(--muted); font-size: .85rem; }
 
 .home-intro {
   display: grid;
