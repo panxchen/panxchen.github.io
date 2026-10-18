@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: ""
 author_profile: false
 redirect_from: 
   - /about/
@@ -63,10 +62,4 @@ redirect_from:
       <p>With Feitao Jiang and Yingjun Su</p>
     </div>
   </article>
-</section>
-
-<section class="home-note" aria-labelledby="about-title">
-  <h2 id="about-title">About</h2>
-  <p>If you have interesting ideas or data, feel free to reach out—I’d be happy to collaborate.</p>
-  <a href="mailto:panchen@umass.edu">panchen@umass.edu</a>
 </section>
