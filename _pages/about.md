@@ -29,8 +29,7 @@ redirect_from:
 <section class="home-research" aria-labelledby="selected-research-title">
   <div class="section-heading">
     <div>
-      <p class="section-kicker">Research</p>
-      <h2 id="selected-research-title">Selected Research</h2>
+      <p class="section-kicker" id="selected-research-title">Selected Research</p>
     </div>
     <a href="/research/">All research <span aria-hidden="true">→</span></a>
   </div>
