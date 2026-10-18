@@ -9,7 +9,6 @@ redirect_from:
 
 <div class="home-intro">
   <section class="home-copy" aria-labelledby="home-title">
-    <p class="home-eyebrow">Resource Economics · UMass Amherst</p>
     <h1 id="home-title">Pan Chen</h1>
     <p class="home-role">Assistant Professor of Resource Economics</p>
     <p class="home-institution">University of Massachusetts Amherst</p>
